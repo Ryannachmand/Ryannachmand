@@ -67,7 +67,7 @@ Interactive software platform for executing AI-assisted computational biology wo
 **Programming**  
 Python • R • Bash
 
-**Single-Cell & Spatial Biology**  
+**Single-Cell Biology**  
 Scanpy • Seurat • AnnData • CellChat • AUCell
 
 **Biomedical Imaging**  
