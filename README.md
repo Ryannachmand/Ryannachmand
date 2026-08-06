@@ -48,8 +48,8 @@ Interactive software platform for executing AI-assisted computational biology wo
 
 ## Currently Building
 
-- Expanding agent-assisted single-cell RNA-seq workflows within **scRNAseq-skills-v2**.
-- Developing accessible computational biology software through the **Lab Analysis Platform**.
+- Expanding agent-assisted single-cell RNA-seq workflows within **scRNAseq-skills-v2** and applying to new datasets.
+- Improving the accessibility of computational biology software through the **Lab Analysis Platform**.
 - Exploring state-of-the-art methods to improve accuracy of image analysis pipeline.
 
 ---
