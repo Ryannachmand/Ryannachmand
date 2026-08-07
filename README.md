@@ -14,9 +14,9 @@ I develop computational methods and software that help researchers understand co
 
 *Leukemia* (2026)
 
-📄 **Paper**: https://www.nature.com/articles/s41375-026-03029-7
-🔗 **DOI**: https://doi.org/10.1038/s41375-026-03029-7
-💻 **Code**: https://github.com/BoneMarrowMxIFImaging/MDS.Manuscript
+📄 **Paper:** https://www.nature.com/articles/s41375-026-03029-7  
+🔗 **DOI:** https://doi.org/10.1038/s41375-026-03029-7  
+💻 **Code:** https://github.com/BoneMarrowMxIFImaging/MDS.Manuscript
 
 ---
 
