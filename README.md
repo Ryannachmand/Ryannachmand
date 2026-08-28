@@ -30,7 +30,7 @@ End-to-end pipeline for multiplex immunofluorescence image analysis and spatial 
 
 ---
 
-### 🧬 Bulk RNA-seq Browser
+### 📊 Bulk RNA-seq Browser
 
 🔗 https://github.com/Ryannachmand/Bulk-RNAseq-Browser
 
