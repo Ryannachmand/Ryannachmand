@@ -30,6 +30,14 @@ End-to-end pipeline for multiplex immunofluorescence image analysis and spatial 
 
 ---
 
+### 🧬 Bulk RNA-seq Browser
+
+🔗 https://github.com/Ryannachmand/Bulk-RNAseq-Browser
+
+Full-stack analysis environment for exploring bulk RNA-seq experiments through six linked interactive views. Integrates differential expression, pathway enrichment, PCA, and publication-ready R figures in a unified React, FastAPI, Python, and R workflow.
+
+---
+
 ### 🤖 scRNAseq-skills-v2
 
 🔗 https://github.com/Ryannachmand/scrnaseq-skills-v2
@@ -48,8 +56,8 @@ Interactive software platform for executing AI-assisted computational biology wo
 
 ## Currently Building
 
-- Expanding agent-assisted single-cell RNA-seq workflows within **scRNAseq-skills-v2** and applying the methods to new datasets.
 - Improving the accessibility of computational biology software.
+- Expanding agent-assisted single-cell RNA-seq workflows within **scRNAseq-skills-v2** and applying the methods to new datasets.
 - Exploring state-of-the-art methods to improve accuracy of image analysis pipeline components.
 
 ---
