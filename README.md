@@ -26,7 +26,7 @@ I develop computational methods and software that help researchers understand co
 
 🔗 https://github.com/BoneMarrowMxIFImaging/MDS.Manuscript
 
-End-to-end pipeline for multiplex immunofluorescence image analysis and spatial biology across millions of spatially resolved cells. Introduces **MDS-MAPS**, a computational framework for quantifying bone marrow microarchitecture and disease-associated spatial remodeling.
+End-to-end pipeline for multiplex immunofluorescence image and spatial biology analysis across millions of spatially resolved cells. Introduces **MDS-MAPS**, a computational framework for quantifying bone marrow microarchitecture and disease-associated spatial remodeling.
 
 ---
 
